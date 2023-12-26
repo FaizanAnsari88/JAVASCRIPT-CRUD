@@ -1,2 +1,2 @@
 # JAVASCRIPT-CRUD
-Using javascript to create CRUD operation
+https://faizanansari88.github.io/JAVASCRIPT-CRUD/
